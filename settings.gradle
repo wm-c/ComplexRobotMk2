@@ -7,4 +7,6 @@
  * in the user manual at https://docs.gradle.org/6.1.1/userguide/multi_project_builds.html
  */
 
-rootProject.name = 'complexrobot'
+rootProject.name = 'ComplexRobotMk2'
+
+include 'Client'
