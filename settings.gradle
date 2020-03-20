@@ -10,3 +10,5 @@
 rootProject.name = 'ComplexRobotMk2'
 
 include 'Client'
+include 'Server'
+include 'Tasks'
