@@ -3,4 +3,4 @@ plugins {
     id 'application' 
 }
 
-mainClassName = 'client.Client' 
+mainClassName = 'client.Client'
