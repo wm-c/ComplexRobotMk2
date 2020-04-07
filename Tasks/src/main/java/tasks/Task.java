@@ -1,9 +1,5 @@
 package tasks;
 
-public interface Task{
-
-
-
-
-
+public interface Task<T> {
+    T execute();
 }
