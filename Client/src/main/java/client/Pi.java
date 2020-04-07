@@ -1,24 +1,21 @@
-package client;
+// package client;
 
-import tasks.Task;
-import java.io.Serializable;
-import java.math.BigDecimal;
+// import tasks.Task;
 
-public class Pi implements Task<Integer>, Serializable {
+// public class Pi implements Task<Integer> {
 
-    private static final long serialVersionUID = 227L;
+//     private static final long serialVersionUID = 227L;
 
-    public Pi(){
+//     public Pi(){
         
-    }
+//     }
 
-    /**
-     * Calculate pi.
-     */
-    public Integer execute() {
-        int x = 30 + 999;
-        return x;
-    }
+//     /**
+//      * Calculate pi.
+//      */
+//     public Integer execute() {
+//         return 10;
+//     }
 
 
-}
+// }
